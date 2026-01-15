@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Third-year Computer Science student passionate about technology and problem-solving  
+- 🎓 Third-year Software Engineer student passionate about technology and problem-solving  
 - 💻 Skilled in multiple programming languages and development tools  
 - 🌱 Always learning and exploring new technologies  
 - 🤝 Open to collaborations and exciting projects  
